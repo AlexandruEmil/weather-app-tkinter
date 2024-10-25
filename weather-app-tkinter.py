@@ -76,5 +76,5 @@ get_weather_button.pack(pady=10)
 result_label = tk.Label(root, text="", font=("Helvetica", 10))
 result_label.pack(pady=20)
 
-# Run the app
+
 root.mainloop()
