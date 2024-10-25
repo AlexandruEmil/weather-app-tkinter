@@ -38,6 +38,10 @@ Enter the name of the city for which you want to check the weather.
 Click the "Search" button.
 The program will fetch weather data from the API and display it on the GUI.
 
+# Contributing
+
+If you find any bugs or issues with this app, please feel free to open an issue or submit a pull request. We welcome contributions from anyone who is interested in improving this app.
+
 # Note:
 You need an internet connection for the program to access the weather API.
 Ensure that all dependencies are installed before running the script.
@@ -58,4 +62,5 @@ Weather Alerts(💲) if available for the selected location, display any active 
  -Network issues: Notify if there’s a connection error.
  
  -Invalid API key: Remind the user to check if the API key is correctly set.
+
  
