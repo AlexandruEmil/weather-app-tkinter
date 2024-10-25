@@ -40,10 +40,10 @@ The program will fetch weather data from the API and display it on the GUI.
 You need an internet connection for the program to access the weather API.
 Ensure that all dependencies are installed before running the script.
 
-# UPDATE💲:
+# UPDATE:
  Improvements and Extension: 
 
-Extended Forecasts uses the One Call API from OpenWeatherMap to add multi-day forecasts. This can display the weather for the next few days, including temperature highs and lows, and conditions.
+Extended Forecasts(💲) uses the One Call API from OpenWeatherMap to add multi-day forecasts. This can display the weather for the next few days, including temperature highs and lows, and conditions.
 
 Weather Alerts: If available for the selected location, display any active weather alerts (such as severe storms or heavy rainfall warnings) by querying the One Call API, which includes alerts for certain regions.
 
