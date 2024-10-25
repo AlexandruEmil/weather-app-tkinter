@@ -41,12 +41,19 @@ You need an internet connection for the program to access the weather API.
 Ensure that all dependencies are installed before running the script.
 
 # UPDATE:
- Improvements and Extension:
- Extended Forecasts uses the One Call API from OpenWeatherMap to add multi-day forecasts. This can display the weather for the next few days, including temperature highs and lows, and conditions.
- Weather Alerts: If available for the selected location, display any active weather alerts (such as severe storms or heavy rainfall warnings) by querying the One Call API, which includes alerts for certain regions.
+ Improvements and Extension: 
+
+Extended Forecasts uses the One Call API from OpenWeatherMap to add multi-day forecasts. This can display the weather for the next few days, including temperature highs and lows, and conditions.
+
+Weather Alerts: If available for the selected location, display any active weather alerts (such as severe storms or heavy rainfall warnings) by querying the One Call API, which includes alerts for certain regions.
+
  Enhanced Error Handling(idk,why it wasn't on the start :( ): 
+
  Improve the clarity of error messages by detailing specific issues, such as:
+
  -Invalid city name: Inform the user if the city isn’t recognized.
+
  -Network issues: Notify if there’s a connection error.
+ 
  -Invalid API key: Remind the user to check if the API key is correctly set.
  
