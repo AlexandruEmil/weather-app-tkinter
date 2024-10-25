@@ -45,7 +45,7 @@ Ensure that all dependencies are installed before running the script.
 
 Extended Forecasts(💲) uses the One Call API from OpenWeatherMap to add multi-day forecasts. This can display the weather for the next few days, including temperature highs and lows, and conditions.
 
-Weather Alerts: If available for the selected location, display any active weather alerts (such as severe storms or heavy rainfall warnings) by querying the One Call API, which includes alerts for certain regions.
+Weather Alerts(💲) if available for the selected location, display any active weather alerts (such as severe storms or heavy rainfall warnings) by querying the One Call API, which includes alerts for certain regions.
 
  Enhanced Error Handling(idk,why it wasn't on the start :( ): 
 
