@@ -29,6 +29,8 @@ Error Handling:
 The program handles potential errors, such as invalid input, network issues, or unavailable API responses.
 Error messages are displayed to guide the user and ensure smooth program execution.
 
+![Dia_meteo](https://github.com/user-attachments/assets/3b7b6fd5-3155-49f3-b8f9-3f9e329ec7f0)
+
 # Usage:
 
 Run the weather_app.py script using Python 3.x.
